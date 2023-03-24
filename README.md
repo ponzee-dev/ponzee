@@ -3,7 +3,8 @@
 <br/><br/>
 Ponzee [PNZ]  
 </h1>
-
+<!--
 **Website:** [ponzee.io](https://ponzee.io)
 <br/>
 **Twitter:** [twitter.com/ponzee_io](https://twitter.com/ponzee_io)
+-->
